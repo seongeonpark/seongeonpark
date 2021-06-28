@@ -1,4 +1,4 @@
-### Hi, I'm Seongeon 👋
+### Hi, I'm Seong-eon 👋
 
 <!--
 **seongeonpark/seongeonpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
